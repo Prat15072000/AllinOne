@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24216362704",
+    "firebase_url": "https://contactus-3c8f6.firebaseio.com",
+    "project_id": "contactus-3c8f6",
+    "storage_bucket": "contactus-3c8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24216362704:android:2e20066d7709cb493f08d5",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24216362704-nv4m0j2301o2cvvvkj97500v4ftdfkca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EK2XSa13n8xAdCLFt2mKt1XMyoAxuUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24216362704-nv4m0j2301o2cvvvkj97500v4ftdfkca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
